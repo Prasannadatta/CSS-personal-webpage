@@ -1,0 +1,210 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  color: white;
+  font-size: 7.5rem;
+}
+
+h2 {
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #142F43;
+  font-size: 3.2rem;
+  margin-top: 0;
+}
+
+h3 {
+  color: #476072;
+  font-size: 2.1rem;
+}
+
+p {
+  max-width: 35%;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.6;
+  font-size: 1.2rem;
+  font-family: 'Mali', cursive;
+}
+
+a {
+  text-decoration: none;
+  padding: 15px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Mali', cursive;
+}
+
+a:hover {
+  color: #142F43;
+}
+
+/* font-family: 'Mali', cursive;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Sacramento', cursive; */
+hr {
+  border-top: dotted 5px;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  width: 7%;
+  margin: 0px auto;
+  border-color: #655D8A;
+  padding: 50px 0;
+}
+
+#copyright {
+  font-size: 0.89rem;
+  padding-top: 10px;
+  color: white;
+}
+
+#msg-img {
+  position: relative;
+  height: 25px;
+  width: 25px;
+  top: 5px;
+  right: 10px;
+}
+
+#p-mid-part {
+  margin-bottom: 0;
+}
+
+#p-bot-part {
+  margin-bottom: 100px;
+}
+
+#underlined {
+  text-decoration: underline;
+}
+
+#sticker1 {
+  width: 170px;
+  position: relative;
+  left: 250px;
+  top: 85px;
+}
+
+#sticker2 {
+  width: 170px;
+  position: relative;
+  right: 250px;
+  top: 85px;
+}
+
+.content1 {
+  position: relative;
+  right: 80px;
+  bottom: 100px;
+  text-align: left;
+}
+
+.content2 {
+  position: relative;
+  left: 80px;
+  bottom: 100px;
+  text-align: left;
+}
+
+.content-h3-1 {
+  position: relative;
+  left: 420px;
+}
+
+.content-h3-2 {
+  position: relative;
+  left: 420px;
+}
+
+.upper-h2 {
+  color: white;
+}
+
+.btn {
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 2px;
+  font-family: 'Mali', cursive;
+  color: #ffffff;
+  font-size: 20px;
+  background: #99154E;
+  padding: 15px 70px 15px 80px;
+  text-decoration: none;
+  border: 0;
+  margin: 50px auto 50px auto;
+}
+
+.btn:hover {
+  background: white;
+  color: #99154E;
+  text-decoration: none;
+}
+
+.boy-logo {
+  width: 75px;
+  padding-left: 60px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.nav-part {
+  background-color: #9AD0EC;
+  position: static;
+  width: 100%;
+  background-color: rgba(154, 208, 236, 0.8);
+}
+
+.nav-links {
+  position: relative;
+  left: 750px;
+  bottom: 25px;
+  font-size: 1.3rem;
+  color: #142F43;
+}
+
+.nav-links:hover {
+  color: white;
+}
+
+.upper-part {
+  padding: 150px 0 150px 0;
+  background-color: #1572A1;
+  text-align: center;
+  line-height: 0.75;
+  margin: 0;
+}
+
+.middle-part {
+  background-color: #EEEEEE;
+  padding: 100px 0 100px 0;
+  text-align: center;
+  margin: 0;
+}
+
+.bottom-part {
+  background-color: #EEEEEE;
+  text-align: center;
+  margin: 0;
+}
+
+.message-me {
+  background-color: #EEEEEE;
+  text-align: center;
+  margin: 0;
+}
+
+.footer-part {
+  background-color: #F2789F;
+  text-align: center;
+  padding: 30px 0 20px 0;
+  margin: 0;
+}
+
+.attribution {
+  font-size: 0.4rem;
+  text-decoration: none;
+  color: white;
+}
